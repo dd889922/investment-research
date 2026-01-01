@@ -1,117 +1,32 @@
-# 财务关键驱动因素分析
+# Key Financial Drivers of China Shenhua
 
-## 概述
-本文件用于分析影响公司财务表现的关键驱动因素，建立财务预测模型的基础。
+## 1. Coal Prices: Earnings Elasticity
 
-## 相关链接
-- GitHub Issue: https://github.com/dd889922/shared-memory/issues/4
+Coal prices directly affect the profitability of the mining segment.
 
-## 分析框架
+Due to its scale and cost advantages, China Shenhua has relatively strong
+earnings elasticity during upcycles while maintaining resilience during downturns.
 
-### 1. 收入驱动因素
-#### 1.1 量价分解
-- 销量增长驱动因素
-- 产品价格变化因素
-- 产品结构调整影响
+## 2. Cost Structure: Downside Protection
 
-#### 1.2 外部因素
-- 宏观经济环境
-- 行业发展阶段
-- 政策环境变化
-- 竞争格局演变
+Key cost factors include:
+- Mining costs
+- Transportation costs
+- Operating efficiency
 
-#### 1.3 内部因素
-- 产能扩张计划
-- 市场份额变化
-- 新产品推出
-- 销售渠道拓展
+As a large-scale SOE with integrated infrastructure, China Shenhua maintains
+lower and more stable unit costs compared to smaller peers.
 
-### 2. 成本驱动因素
-#### 2.1 原材料成本
-- 主要原材料价格趋势
-- 采购策略优化
-- 供应链管理效率
+This provides strong downside protection when coal prices decline.
 
-#### 2.2 人工成本
-- 人员数量变化
-- 薪酬水平调整
-- 生产效率提升
+## 3. Operating Cash Flow: Core Value Driver
 
-#### 2.3 能源成本
-- 能源价格波动
-- 节能技术应用
-- 能源结构优化
+Accounting profits can fluctuate with prices and policy adjustments.
 
-#### 2.4 其他成本
-- 运输物流成本
-- 环保合规成本
-- 技术研发投入
+Operating cash flow, however, reflects the company’s true ability to:
+- Fund operations
+- Control capital expenditure
+- Pay sustainable dividends
 
-### 3. 利润率驱动因素
-#### 3.1 毛利率分析
-- 产品毛利率差异
-- 成本控制能力
-- 规模经济效应
-- 技术进步影响
-
-#### 3.2 费用率分析
-- 销售费用效率
-- 管理费用控制
-- 研发投入产出比
-- 财务费用变化
-
-### 4. 资产效率驱动因素
-#### 4.1 资产周转率
-- 固定资产利用率
-- 存货周转效率
-- 应收账款管理
-- 资本开支规划
-
-#### 4.2 资本结构
-- 负债结构优化
-- 融资成本变化
-- 财务杠杆运用
-
-### 5. 现金流驱动因素
-#### 5.1 经营现金流
-- 营运资金管理
-- 账期管理政策
-- 季节性影响因素
-
-#### 5.2 投资现金流
-- 资本开支计划
-- 并购投资活动
-- 资产处置计划
-
-#### 5.3 融资现金流
-- 分红政策
-- 股权融资计划
-- 债务结构调整
-
-## 敏感性分析
-
-### 关键假设参数
-| 参数 | 基准情况 | 乐观情况 | 悲观情况 | 敏感度 |
-|------|---------|---------|---------|--------|
-|      |         |         |         |        |
-
-### 情景分析
-- 基准情况
-- 乐观情况
-- 悲观情况
-
-## 财务模型关键输入
-- [ ] 收入增长假设
-- [ ] 毛利率预期
-- [ ] 费用率预测
-- [ ] 资本开支计划
-- [ ] 营运资金变化
-
-## 数据来源
-- [ ] 历史财务数据
-- [ ] 管理层指引
-- [ ] 行业基准数据
-- [ ] 宏观经济数据
-
-## 更新日志
-- 2026-01-01: 创建文件结构
+China Shenhua has consistently generated strong operating cash flow,
+which forms the foundation of its shareholder return profile.
