@@ -109,5 +109,4 @@ Independent Equity Research
 - /industry — Industry & demand analysis  
 - /company — Business model & competitive position  
 - /financials — Key financials & cash flow analysis  
-- /valuation — Dividend & relative valuation  
-- /notes — Research logs & reflections
+- /valuation — Dividend & relative valuation
