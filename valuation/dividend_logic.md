@@ -1,159 +1,46 @@
-# 股息逻辑分析
+# Valuation and Dividend Logic of China Shenhua
 
-## 概述
-本文件用于分析公司的股息政策、分红能力和股息投资价值，为股息投资策略提供分析框架。
+## 1. Why China Shenhua Is Not a Growth Stock
 
-## 相关链接
-- GitHub Issue: https://github.com/dd889922/shared-memory/issues/5
+China Shenhua operates in a mature and regulated industry.
 
-## 分析框架
+Coal demand is structurally stable but lacks long-term growth potential.
+As a result, the company does not rely on revenue expansion to create value.
 
-### 1. 股息政策分析
-#### 1.1 历史分红情况
-- 股息率历史变化
-- 分红频率和时间
-- 现金分红vs股票分红
-- 分红连续性分析
+## 2. Cash Flow as the Core Valuation Anchor
 
-#### 1.2 分红政策特点
-- 固定股息政策
-- 固定股息率政策
-- 剩余股息政策
-- 特别股息情况
+The company’s value is primarily supported by:
+- Stable operating cash flow
+- Moderate and controllable capital expenditure
+- High visibility of free cash flow
 
-### 2. 分红能力评估
-#### 2.1 盈利能力
-- 净利润稳定性
-- 盈利质量分析
-- 未来盈利预期
-- 行业盈利周期性
+This allows investors to value China Shenhua based on cash yield
+rather than growth expectations.
 
-#### 2.2 现金流状况
-- 经营现金流充足性
-- 自由现金流水平
-- 现金流稳定性
-- 资本开支需求
+## 3. Dividend Sustainability
 
-#### 2.3 财务健康度
-- 负债水平适中性
-- 流动性充足性
-- 偿债能力评估
-- 财务风险因素
+Strong and consistent operating cash flow enables:
+- Regular dividend payments
+- Relatively high payout ratios
+- Attractive dividend yield compared to market averages
 
-### 3. 股息可持续性分析
-#### 3.1 分红比率分析
-- 股息支付率趋势
-- 与同行业对比
-- 合理水平判断
-- 未来调整空间
+Dividends represent a significant portion of total shareholder returns.
 
-#### 3.2 业务周期性影响
-- 周期性行业特点
-- 经济周期敏感性
-- 抗风险能力评估
-- 分红稳定性预期
+## 4. Market Positioning: A Bond-Like Equity
 
-#### 3.3 资本配置策略
-- 再投资需求
-- 并购活动影响
-- 股份回购政策
-- 资本配置优先级
+Due to its:
+- Stable demand base
+- Integrated business model
+- Predictable cash generation
 
-### 4. 股息投资价值评估
-#### 4.1 股息率分析
-- 当前股息率水平
-- 历史股息率区间
-- 行业平均水平对比
-- 无风险利率比较
+China Shenhua is often viewed as a bond-like equity,
+offering income stability rather than capital appreciation.
 
-#### 4.2 股息增长性
-- 历史分红增长率
-- 未来增长预期
-- 增长驱动因素
-- 可持续增长率
+## 5. Valuation Implications
 
-#### 4.3 股息收益vs资本利得
-- 总收益构成分析
-- 股息贡献度
-- 价格波动性
-- 风险调整收益
+Valuation fluctuations are mainly driven by:
+- Coal price expectations
+- Policy environment
+- Interest rate levels
 
-### 5. 估值方法
-#### 5.1 股息贴现模型(DDM)
-- 零增长模型
-- 恒定增长模型
-- 多阶段增长模型
-- 敏感性分析
-
-#### 5.2 关键参数设定
-- 贴现率选择
-- 增长率假设
-- 永续期设定
-- 风险调整
-
-### 6. 投资决策框架
-#### 6.1 股息投资优势
-- 稳定现金收益
-- 通胀保护能力
-- 复利增长效应
-- 税收优化考虑
-
-#### 6.2 风险因素识别
-- 股息削减风险
-- 利率环境变化
-- 行业衰退影响
-- 政策环境变化
-
-#### 6.3 投资策略建议
-- 买入时机判断
-- 持有策略制定
-- 组合配置建议
-- 退出条件设定
-
-## 股息分析指标
-
-### 财务指标
-| 指标 | 当前值 | 历史均值 | 行业均值 | 评价 |
-|------|-------|---------|---------|------|
-| 股息率 |  |  |  |  |
-| 股息支付率 |  |  |  |  |
-| 自由现金流收益率 |  |  |  |  |
-| 净资产收益率 |  |  |  |  |
-
-### 股息增长分析
-| 年份 | 每股股息 | 增长率 | 支付率 | 股息率 |
-|------|---------|-------|-------|-------|
-|      |         |       |       |       |
-
-## 估值计算
-
-### DDM模型参数
-- 无风险利率: 
-- 股权风险溢价: 
-- 贝塔系数: 
-- 权益成本: 
-- 预期增长率: 
-
-### 估值结果
-- 内在价值: 
-- 当前股价: 
-- 安全边际: 
-
-## 投资建议
-- [ ] 买入
-- [ ] 持有
-- [ ] 卖出
-
-### 理由说明
-1. 
-2. 
-3. 
-
-## 数据来源
-- [ ] 公司财务报告
-- [ ] 股息发放公告
-- [ ] 行业分析报告
-- [ ] 宏观经济数据
-
-## 更新日志
-- 2026-01-01: 创建文件结构
+Rather than growth assumptions, investors focus on yield and downside protection.
