@@ -1,48 +1,113 @@
-# Investment Research
+# China Shenhua Energy  
+### (601088.SH / 01088.HK)  
+*Equity Research | Industry & Company Analysis*
 
-我的个人股票研究和行业分析博客
+---
 
-## 项目结构
+## 1. Investment Thesis (One-Page Summary)
 
-```
-investment-research/
-├── README.md                                    # 项目说明
-└── China-Shenhua-Investment-Research/          # 中国神华研究案例
-    ├── industry/
-    │   └── industry_demand.md                  # 煤炭行业需求分析
-    ├── company/
-    │   └── business_model.md                   # 中国神华商业模式分析
-    ├── financials/
-    │   └── key_drivers.md                      # 财务关键驱动因素
-    └── valuation/
-        └── dividend_logic.md                   # 估值与股息逻辑
-```
+China Shenhua is a leading coal and integrated energy company in China.  
+Its core value lies not in growth, but in **stable demand, an integrated “coal–transport–power” business model, and strong operating cash flow**, which together support sustainable dividends.
 
-## 中国神华投资研究
+From a system-level perspective, coal remains the **base-load energy** in China’s power system.  
+Despite the rapid growth of renewable energy, coal-fired power continues to play an irreplaceable role in ensuring grid stability.
 
-### 投资论点概要
+As a result, China Shenhua functions more like a **cash-generating infrastructure asset** rather than a cyclical growth stock.
 
-中国神华是中国领先的煤炭和综合能源公司。其核心价值不在于增长，而在于**稳定的需求、一体化的"煤炭-运输-电力"商业模式，以及强劲的经营现金流**，这些因素共同支撑了可持续的股息。
+---
 
-从系统层面来看，煤炭仍然是中国电力系统的**基荷能源**。尽管可再生能源快速发展，燃煤发电在确保电网稳定方面仍发挥着不可替代的作用。
+## 2. Industry Overview: Coal as Base-Load Energy
 
-因此，中国神华更像是一个**现金生成基础设施资产**，而非周期性增长股。
+### 2.1 Demand Structure
 
-## 分析文件说明
+Coal demand in China mainly comes from:
+- Power generation (**largest and most stable downstream**)
+- Steel
+- Chemical industries
 
-### [行业分析 - 煤炭需求分析](./China-Shenhua-Investment-Research/industry/industry_demand.md)
-分析煤炭行业的需求结构，为什么电力需求是稳定的，以及对煤炭行业的影响。
+Among these, **power generation dominates**, making coal demand highly correlated with electricity consumption rather than short-term economic cycles.
 
-### [公司分析 - 商业模式](./China-Shenhua-Investment-Research/company/business_model.md)  
-分析中国神华一体化"煤炭-运输-电力"商业模式如何降低周期性风险。
+### 2.2 Industry Characteristics
 
-### [财务分析 - 关键驱动因素](./China-Shenhua-Investment-Research/financials/key_drivers.md)
-识别影响中国神华财务表现的关键因素，包括煤价弹性、成本结构和现金流。
+- Demand is **structural and non-discretionary**
+- Growth is limited, but **collapse risk is low**
+- Coal plays a **stabilizing role** in the national energy system
 
-### [估值分析 - 股息逻辑](./China-Shenhua-Investment-Research/valuation/dividend_logic.md)
-分析为什么中国神华不是增长股，以及如何基于现金流和股息进行估值。
+---
 
-## 投资免责声明
+## 3. Business Model: Integrated “Coal–Transport–Power” System
 
-本项目中的所有分析和观点仅供学习研究使用，不构成任何投资建议。投资有风险，入市需谨慎。
+Most coal companies only operate upstream mining assets and are highly exposed to coal price volatility.
 
+China Shenhua differentiates itself through its integrated business model:
+- Coal mining
+- Railway and port transportation
+- Power generation
+
+This integration:
+- Smooths earnings volatility across cycles
+- Enhances pricing and cost control
+- Improves cash flow stability
+
+---
+
+## 4. Competitive Landscape
+
+- High industry entry barriers: mining licenses, capital intensity, safety and environmental regulations
+- Ongoing industry consolidation
+- Resources increasingly concentrated among large SOEs
+
+China Shenhua, as a central SOE and industry leader, is among the **most resilient players** in the sector.
+
+---
+
+## 5. Key Value Drivers
+
+Rather than starting from financial statements, this analysis focuses on the **drivers behind financial outcomes**:
+
+1. Coal prices → earnings elasticity  
+2. Cost structure → downside protection  
+3. Operating cash flow → dividend sustainability (**most critical**)
+
+China Shenhua has consistently generated strong operating cash flow, supporting high and stable dividend payouts.
+
+---
+
+## 6. Risks
+
+- Coal price cyclicality  
+- Policy intervention and price controls  
+- Long-term energy transition affecting valuation multiples  
+
+These risks mainly impact **valuation levels**, rather than short-term cash flow sustainability.
+
+---
+
+## 7. Conclusion
+
+China Shenhua is not a growth story.  
+It is a **cash-flow-driven, systemically important energy company** with strong downside protection and stable shareholder returns.
+
+---
+
+## Disclaimer
+
+This project is for educational and research purposes only and does not constitute investment advice.
+
+---
+
+## Author
+
+**Elvis Zhou**  
+Finance & Data Analytics  
+Independent Equity Research
+
+---
+
+## Project Structure
+
+- /industry — Industry & demand analysis  
+- /company — Business model & competitive position  
+- /financials — Key financials & cash flow analysis  
+- /valuation — Dividend & relative valuation  
+- /notes — Research logs & reflections
