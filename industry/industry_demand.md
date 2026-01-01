@@ -1,39 +1,28 @@
-# 行业需求分析
+# Coal Industry Demand Analysis
 
-## 概述
-本文件用于分析目标行业的需求状况和发展趋势。
+## 1. Main Demand Sources
 
-## 相关链接
-- GitHub Issue: https://github.com/dd889922/shared-memory/issues/2
+Coal demand in China mainly comes from:
 
-## 分析框架
+- Power generation (largest share)
+- Steel industry
+- Chemical industry
 
-### 1. 市场规模
-- 当前市场规模
-- 历史增长趋势
-- 未来增长预期
+Among these, power generation is the dominant and most stable demand source.
 
-### 2. 需求驱动因素
-- 宏观经济因素
-- 政策环境
-- 技术发展
-- 消费者行为变化
+## 2. Why Power Demand Is Stable
 
-### 3. 细分市场需求
-- 按地区划分
-- 按产品类型划分
-- 按客户群体划分
+Electricity demand is non-discretionary and cannot be interrupted.
 
-### 4. 供需关系分析
-- 供给状况
-- 需求缺口
-- 价格趋势
+Although renewable energy capacity has expanded rapidly, wind and solar power
+are inherently intermittent, requiring stable base-load energy sources.
 
-## 数据来源
-- [ ] 行业报告
-- [ ] 政府统计数据
-- [ ] 公司财报
-- [ ] 第三方研究机构
+Coal-fired power remains the most reliable base-load option in China.
 
-## 更新日志
-- 2026-01-01: 创建文件结构
+## 3. Implications for Coal Industry
+
+This means coal demand in China is not driven by growth narratives,
+but by system-level energy security.
+
+For leading coal companies, this creates a relatively stable demand floor.
+
