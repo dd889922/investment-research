@@ -1,0 +1,12 @@
+# VS Code Local History extension
+.history/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+
+# Log files
+*.log
