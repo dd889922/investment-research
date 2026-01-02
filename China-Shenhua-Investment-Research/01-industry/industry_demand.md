@@ -12,8 +12,16 @@ Coal demand in China mainly comes from:
 - **Steel industry**
 - **Chemical industry**
 
+### Coal's Dominant Position in China's Energy Mix
+
+The following chart demonstrates coal's critical role in China's electricity generation structure, highlighting why power generation represents the most stable and significant demand source for coal companies like China Shenhua.
+
+![China Electricity Generation by Source 2023](images/china_electricity_generation_2023.png)
+
+*Figure 1: China Electricity Generation by Source (2023) - Coal maintains its dominant position at 60% of total generation, demonstrating its critical role as base-load energy despite rapid renewable expansion. Source: EIA International Energy Statistics.*
+
 Among these, power generation is the dominant and most stable demand source.  
-It accounts for approximately **59–60% of total electricity generation in 2023** ([EIA](https://www.eia.gov/international/content/analysis/countries_long/China/?utm_source=chatgpt.com)).
+It accounts for approximately **60% of total electricity generation in 2023** ([EIA Official Data](https://www.eia.gov/international/content/analysis/countries_long/China/?utm_source=chatgpt.com)).
 
 ---
 
